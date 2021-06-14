@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praneeth M
+- 👋 Hi, I’m Praneeth M
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me Instagram:- praneethm.__
